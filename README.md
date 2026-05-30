@@ -50,6 +50,5 @@ Silakan pilih salah satu opsi unduhan di bawah ini. Tombol di bawah sudah dileng
 ## 💻 Cara Instalasi
 1. Download file mod melalui salah satu tombol di atas.
 2. Ekstrak file mod yang sudah di-download menggunakan WinRAR atau 7-Zip.
-3. Copy atau pindahkan semua isi file mod ke dalam folder utama game lu (tempat di mana file `.exe` game berada).
-4. Replace jika ada peringatan untuk menimpa file lama.
-5. Jalankan game seperti biasa dan nikmati versi Bahasa Indonesia!
+3. Replace jika ada peringatan untuk menimpa file lama.
+4. Jalankan game seperti biasa dan nikmati versi Bahasa Indonesia!

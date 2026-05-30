@@ -21,8 +21,7 @@ Experience a straightforward, combat-free H-RPG. Journey back and forth between 
 ---
 
 ## 🛠️ Fitur Mod
-* Terjemahan teks utama ke dalam Bahasa Indonesia (Non-Baku/Santai agar lebih luwes saat dibaca).
-* Tetap menjaga keaslian nama karakter dan nuansa asli game.
+* Terjemahan teks utama ke dalam Bahasa Indonesia).
 * Kompatibel langsung dengan versi game v1.00.
 
 ---

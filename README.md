@@ -20,20 +20,26 @@ Experience a straightforward, combat-free H-RPG. Journey back and forth between 
 
 ---
 
-## 📥 DOWNLOAD MOD
-
-Silahkan pilih salah satu jalur unduhan di bawah ini. Disarankan menggunakan **Jalur Utama** untuk mendukung update mod selanjutnya. Jika mengalami kendala/error iklan, gunakan **Jalur Alternatif**.
-
-### 🚀 [JALUR UTAMA (SafeLinkU + ouo.io)](https://sfl.gl/TP5DjxK6)
-*(Lewati captcha untuk menuju ke link download MediaFire)*
-
-### 🔄 [JALUR ALTERNATIF (ouo.io Only)](https://ouo.io/ZwDauO)
-*(Gunakan jalur ini jika Jalur Utama diblokir oleh DNS/AdBlocker)*
+## 🛠️ Fitur Mod
+* Terjemahan teks utama ke dalam Bahasa Indonesia (Non-Baku/Santai agar lebih luwes saat dibaca).
+* Tetap menjaga keaslian nama karakter dan nuansa asli game.
+* Kompatibel langsung dengan versi game v1.00.
 
 ---
 
-## 🛠️ Installation
-1. Download file mod di atas sampai selesai.
-2. Ekstrak file `.rar` menggunakan WinRAR atau aplikasi sejenis.
-3. Copas atau pindahkan seluruh isi folder mod ke dalam folder utama game lu.
-4. Jalankan game seperti biasa, dan selamat bermain!
+## 📥 Link Download
+
+Silakan pilih salah satu opsi unduhan di bawah ini. Tombol di bawah sudah dilengkapi shortener untuk mendukung pengembangan mod selanjutnya:
+
+| 🟢 OPSI 1: JALUR UTAMA | 🔵 OPSI 2: JALUR ALTERNATIF |
+| :---: | :---: |
+| <a href="https://sfl.gl/TP5DjxK6"><img src="https://img.shields.io/badge/DOWNLOAD-SAFELINKU%20%2B%20OUO-green?style=for-the-badge&logo=mediafire" alt="Download Utama"></a> | <a href="https://ouo.io/ZwDauO"><img src="https://img.shields.io/badge/DOWNLOAD-OUO%20ONLY-blue?style=for-the-badge&logo=mediafire" alt="Download Alternatif"></a> |
+
+---
+
+## 💻 Cara Instalasi
+1. Download file mod melalui salah satu tombol di atas.
+2. Ekstrak file mod yang sudah di-download menggunakan WinRAR atau 7-Zip.
+3. Copy atau pindahkan semua isi file mod ke dalam folder utama game lu (tempat di mana file `.exe` game berada).
+4. Replace jika ada peringatan untuk menimpa file lama.
+5. Jalankan game seperti biasa dan nikmati versi Bahasa Indonesia!

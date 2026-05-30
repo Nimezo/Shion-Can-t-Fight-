@@ -9,6 +9,17 @@ Experience a straightforward, combat-free H-RPG. Journey back and forth between 
 
 ---
 
+---
+
+## 📺 Video Showcase
+Penasaran gimana tampilan mod-nya di dalam game? Lu bisa tonton video gameplay dan cara instalasinya di sini:
+
+[<img src="https://img.shields.io/badge/YOUTUBE-WATCH%20VIDEO-red?style=for-the-badge&logo=youtube" alt="YouTube Showcase">](https://youtu.be/3WswUJIq0Mk)
+
+📢 **Ikuti Update Mod Terbaru:** [Eromodechi Channel](https://www.youtube.com/@Eromodechi)
+
+---
+
 ## 📊 Game Information
 * **Original Name:** 冒険者シオンは戦えない！～強くなれるはずが淫らになってました～
 * **Developer:** Diparcha (でぃぱるちゃ)
